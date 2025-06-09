@@ -1,0 +1,10 @@
+{
+  "id": "memory_logs_snapshot",
+  "prevId": "b234e1b4-c30a-471f-b431-233cb4947039",
+  "tables": {
+    "public.memory_logs": {
+      "name": "memory_logs",
+      "columns": {}
+    }
+  }
+}
